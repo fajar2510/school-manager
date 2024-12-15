@@ -38,20 +38,16 @@ async function main() {
 
   // SUBJECT
   const subjectData = [
-    { name: "Matematika" }, 
-    { name: "IPA"},
-    { name: "Bahasa Inggris" },
-    { name: "Bahasa Daerah" },
-    { name: "Bahasa Indonesia" },
-    { name: "Olahraga" },
-    { name: "Agama" },
-    { name: "Sejarah" }, 
-    { name: "Geografi" }, 
-    { name: "Fisika" }, 
-    { name: "Kimia" }, 
-    { name: "Biologi" }, 
-    { name: "Komputer" }, 
-    { name: "Seni Budaya" }, 
+    { name: "Mathematics" },
+    { name: "Science" },
+    { name: "English" },
+    { name: "History" },
+    { name: "Geography" },
+    { name: "Physics" },
+    { name: "Chemistry" },
+    { name: "Biology" },
+    { name: "Computer Science" },
+    { name: "Art" },
   ];
 
   for (const subject of subjectData) {
